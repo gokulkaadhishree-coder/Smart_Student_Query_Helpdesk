@@ -1,0 +1,26 @@
+{
+  "docVersion": "1.0.0",
+  "resource": {
+    "name": "StudentHelpdeskProcessor",
+    "kind": "package",
+    "apiVersion": "orchestrator.uipath.com/v1",
+    "projectKey": "edba1043-6e54-408a-be6a-95ff7ee966ca",
+    "isOverridable": false,
+    "dependencies": [],
+    "runtimeDependencies": [],
+    "files": [],
+    "folders": [
+      {
+        "fullyQualifiedName": "solution_folder"
+      }
+    ],
+    "spec": {
+      "fileName": null,
+      "fileReference": null,
+      "name": "StudentHelpdeskProcessor",
+      "description": null
+    },
+    "locks": [],
+    "key": "7c85cd95-e516-456c-b8d2-6918c114e7d5"
+  }
+}

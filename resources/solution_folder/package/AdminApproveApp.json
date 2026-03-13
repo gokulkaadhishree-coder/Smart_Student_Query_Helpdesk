@@ -1,0 +1,26 @@
+{
+  "docVersion": "1.0.0",
+  "resource": {
+    "name": "AdminApproveApp",
+    "kind": "package",
+    "apiVersion": "orchestrator.uipath.com/v1",
+    "projectKey": "da91e449-a994-42b4-aed1-72ad8c6c23f3",
+    "isOverridable": true,
+    "dependencies": [],
+    "runtimeDependencies": [],
+    "files": [],
+    "folders": [
+      {
+        "fullyQualifiedName": "solution_folder"
+      }
+    ],
+    "spec": {
+      "fileName": null,
+      "fileReference": null,
+      "name": "AdminApproveApp",
+      "description": null
+    },
+    "locks": [],
+    "key": "1ee35b17-9158-4e2d-9a54-2592fbfef31e"
+  }
+}

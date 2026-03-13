@@ -1,0 +1,44 @@
+{
+  "docVersion": "1.0.0",
+  "resource": {
+    "name": "AdminApproveApp",
+    "kind": "app",
+    "type": "workflow Action",
+    "apiVersion": "apps.uipath.com/v1",
+    "projectKey": "da91e449-a994-42b4-aed1-72ad8c6c23f3",
+    "isOverridable": true,
+    "dependencies": [
+      {
+        "name": "AdminApproveApp",
+        "kind": "appVersion"
+      },
+      {
+        "name": "AdminApproveApp",
+        "kind": "process"
+      }
+    ],
+    "runtimeDependencies": [],
+    "files": [],
+    "folders": [
+      {
+        "fullyQualifiedName": "solution_folder"
+      }
+    ],
+    "spec": {
+      "name": "AdminApproveApp",
+      "description": null,
+      "type": "workflow Action",
+      "version": null,
+      "appSystemName": null,
+      "appVersionRef": {
+        "key": "722987e5-5bb4-42d0-8306-46cdd3990d5e"
+      },
+      "codeBehindProcess": {
+        "key": "fbde5c63-3a97-45e1-a0c0-638f09c55f96"
+      },
+      "actionSchema": null
+    },
+    "locks": [],
+    "key": "2be1d628-bfad-4315-a43b-e4b8346e17c1"
+  }
+}

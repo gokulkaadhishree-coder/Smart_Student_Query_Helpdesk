@@ -1,0 +1,71 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "$id": "entry-points.json",
+  "entryPoints": [
+    {
+      "filePath": "/content/agent.json",
+      "type": "agent",
+      "uniqueId": "c68aef03-a90b-4750-9eb6-90e17e05ef58",
+      "input": {
+        "type": "object",
+        "required": [
+          "categoryName",
+          "categoryExplanation",
+          "studentEmail"
+        ],
+        "properties": {
+          "categoryName": {
+            "type": "string",
+            "description": "The category of student information to extract"
+          },
+          "categoryExplanation": {
+            "type": "string",
+            "description": "Explanation or details about the category, especially important for 'Other' category"
+          },
+          "studentEmail": {
+            "type": "string",
+            "description": "The email address of the student to look up"
+          }
+        }
+      },
+      "output": {
+        "type": "object",
+        "required": [
+          "status"
+        ],
+        "properties": {
+          "status": {
+            "type": "string",
+            "description": "The status of the operation: 'Success', 'Student Not Found', or 'Pending'"
+          },
+          "studentEmail": {
+            "type": "string",
+            "description": "The email of the student that was looked up"
+          },
+          "category": {
+            "type": "string",
+            "description": "The category of information that was extracted"
+          },
+          "fieldsExtracted": {
+            "type": "array",
+            "description": "An array of extracted fields and their values",
+            "items": {
+              "type": "object",
+              "properties": {
+                "fieldName": {
+                  "type": "string",
+                  "description": "The name of the extracted field"
+                },
+                "fieldValue": {
+                  "type": "string",
+                  "description": "The value of the extracted field"
+                }
+              }
+            }
+          }
+        },
+        "title": "Outputs"
+      }
+    }
+  ]
+}

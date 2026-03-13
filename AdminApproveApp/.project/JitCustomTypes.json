@@ -1,0 +1,220 @@
+{
+  "version": "3.0.0.0",
+  "bundleHash": "ks2Bko0gdThOxcGuTO4AzcesQTCzVNKEU3Bd0mZ7Q",
+  "addedAssemblyNames": [],
+  "discardedAssemblyNames": [
+    "Apps.form.MainPage.Expressions.9L56E33YLXS1w9D3t2z44K03",
+    "Apps.form.MainPage.gxrTb4qt3gg",
+    "Apps.action.gVZWe66t3gg",
+    "Apps.action.ggNTIFqx3gg",
+    "Apps.form.MainPage.Expressions.kWh5b33KQoB1dJNs93IMvO32",
+    "Apps.form.StudentHelpdeskRequestFormPage.gtNzujax3gg",
+    "Apps.form.StudentHelpdeskRequestFormPage.Expressions.kriIg2bkdaB1F9yJe3AwlD94",
+    "Apps.form.HelpdeskRequestFormPage.gu3Lr2Kx3gg",
+    "Apps.form.HelpdeskRequestFormPage.Expressions.oURZG3kdUUD1naMMO3cTpjp",
+    "Apps.form.StudentHelpdeskRequestFormPage.Expressions.qN1cUFBFZH1POb1S4udNb4",
+    "Apps.action.g651edax3gg",
+    "Apps.form.MainPage.Expressions.qklO43n5N5Q1BeFlZNZiWD",
+    "Apps.form.HelpdeskRequestFormPage.Expressions.PVyza29GZ6B18Mo3D21X1wJ2",
+    "Apps.form.HelpdeskRequestFormPage.Expressions.hHvz73oQTaH1c8Wyo2EbI7P",
+    "Apps.action.g8UtS6qx3gg",
+    "Apps.form.MainPage.Expressions.SmRRE1ZKY8J1s7p164m8Yp11",
+    "Apps.form.StudentHelpdeskRequestFormPage.Expressions.DYus04wedvE1wsx1E3KK9FU",
+    "Apps.form.EmailClassificationPagePage.Expressions.0H9Gh2FxiAJ1FlzP1DMl0X",
+    "Apps.form.EmailClassificationPagePage.gWwUtL613gg",
+    "Apps.form.EmailClassificationPagePage.Expressions.FxAPgA9DMQ1gc9T41wsTR34",
+    "Apps.form.EmailClassificationPagePage.g7Wy2L613gg",
+    "Apps.action.g1vDIq13gg",
+    "Apps.form.MainPage.Expressions.nqvnv29vzJD1WILWp3nFAGY1",
+    "Apps.form.StudentHelpdeskRequestFormPage.Expressions.tAAtb3Rd4lJ1iWXMzDkizf3",
+    "Apps.form.HelpdeskRequestFormPage.Expressions.Kd1Dh41EyN1TBkyYTEvOm",
+    "Apps.form.EmailClassificationPagePage.Expressions.TLXT422kMlC1Aiq8bAgr2D1",
+    "Apps.form.EmailClassificationPagePage.Expressions.ugfMpAbWqL1f87PO2GRUgN3",
+    "Apps.form.EmailClassificationPagePage.Expressions.G2IQM4JrhnM1mfYhE4iRtw71",
+    "Apps.form.EmailClassificationPagePage.gUPiWRK13gg"
+  ],
+  "discardedAssemblyReplacements": {
+    "Apps.form.MainPage.Expressions.9L56E33YLXS1w9D3t2z44K03": "Apps.form.MainPage.Expressions.kWh5b33KQoB1dJNs93IMvO32",
+    "Apps.form.MainPage.gxrTb4qt3gg": "Apps.form.MainPage.gsXnxFqx3gg",
+    "Apps.action.gVZWe66t3gg": "Apps.action.ggNTIFqx3gg",
+    "Apps.action.ggNTIFqx3gg": "Apps.action.g651edax3gg",
+    "Apps.form.MainPage.Expressions.kWh5b33KQoB1dJNs93IMvO32": "Apps.form.MainPage.Expressions.qklO43n5N5Q1BeFlZNZiWD",
+    "Apps.form.StudentHelpdeskRequestFormPage.gtNzujax3gg": "Apps.form.StudentHelpdeskRequestFormPage.gJ515jqx3gg",
+    "Apps.form.StudentHelpdeskRequestFormPage.Expressions.kriIg2bkdaB1F9yJe3AwlD94": "Apps.form.StudentHelpdeskRequestFormPage.Expressions.qN1cUFBFZH1POb1S4udNb4",
+    "Apps.form.HelpdeskRequestFormPage.gu3Lr2Kx3gg": "Apps.form.HelpdeskRequestFormPage.gxbSV2ax3gg",
+    "Apps.form.HelpdeskRequestFormPage.Expressions.oURZG3kdUUD1naMMO3cTpjp": "Apps.form.HelpdeskRequestFormPage.Expressions.PVyza29GZ6B18Mo3D21X1wJ2",
+    "Apps.form.StudentHelpdeskRequestFormPage.Expressions.qN1cUFBFZH1POb1S4udNb4": "Apps.form.StudentHelpdeskRequestFormPage.Expressions.DYus04wedvE1wsx1E3KK9FU",
+    "Apps.action.g651edax3gg": "Apps.action.g8UtS6qx3gg",
+    "Apps.form.MainPage.Expressions.qklO43n5N5Q1BeFlZNZiWD": "Apps.form.MainPage.Expressions.SmRRE1ZKY8J1s7p164m8Yp11",
+    "Apps.form.HelpdeskRequestFormPage.Expressions.PVyza29GZ6B18Mo3D21X1wJ2": "Apps.form.HelpdeskRequestFormPage.Expressions.hHvz73oQTaH1c8Wyo2EbI7P",
+    "Apps.form.HelpdeskRequestFormPage.Expressions.hHvz73oQTaH1c8Wyo2EbI7P": "Apps.form.HelpdeskRequestFormPage.Expressions.Kd1Dh41EyN1TBkyYTEvOm",
+    "Apps.action.g8UtS6qx3gg": "Apps.action.g1vDIq13gg",
+    "Apps.form.MainPage.Expressions.SmRRE1ZKY8J1s7p164m8Yp11": "Apps.form.MainPage.Expressions.nqvnv29vzJD1WILWp3nFAGY1",
+    "Apps.form.StudentHelpdeskRequestFormPage.Expressions.DYus04wedvE1wsx1E3KK9FU": "Apps.form.StudentHelpdeskRequestFormPage.Expressions.tAAtb3Rd4lJ1iWXMzDkizf3",
+    "Apps.form.EmailClassificationPagePage.Expressions.0H9Gh2FxiAJ1FlzP1DMl0X": "Apps.form.EmailClassificationPagePage.Expressions.FxAPgA9DMQ1gc9T41wsTR34",
+    "Apps.form.EmailClassificationPagePage.gWwUtL613gg": "Apps.form.EmailClassificationPagePage.g7Wy2L613gg",
+    "Apps.form.EmailClassificationPagePage.Expressions.FxAPgA9DMQ1gc9T41wsTR34": "Apps.form.EmailClassificationPagePage.Expressions.TLXT422kMlC1Aiq8bAgr2D1",
+    "Apps.form.EmailClassificationPagePage.g7Wy2L613gg": "Apps.form.EmailClassificationPagePage.gUPiWRK13gg",
+    "Apps.action.g1vDIq13gg": "Apps.action.g5r6tUK13gg",
+    "Apps.form.MainPage.Expressions.nqvnv29vzJD1WILWp3nFAGY1": "Apps.form.MainPage.Expressions.EexbI1FejrN1j7rWl1XipF4",
+    "Apps.form.StudentHelpdeskRequestFormPage.Expressions.tAAtb3Rd4lJ1iWXMzDkizf3": "Apps.form.StudentHelpdeskRequestFormPage.Expressions.Hj74H4QBxYH1NDz6m3QLqzh3",
+    "Apps.form.HelpdeskRequestFormPage.Expressions.Kd1Dh41EyN1TBkyYTEvOm": "Apps.form.HelpdeskRequestFormPage.Expressions.d6WLE1ZGlGP11Yj444kD64A1",
+    "Apps.form.EmailClassificationPagePage.Expressions.TLXT422kMlC1Aiq8bAgr2D1": "Apps.form.EmailClassificationPagePage.Expressions.G2IQM4JrhnM1mfYhE4iRtw71",
+    "Apps.form.EmailClassificationPagePage.Expressions.ugfMpAbWqL1f87PO2GRUgN3": "Apps.form.EmailClassificationPagePage.Expressions.ufbdVOljxG1dgAlJ4pfGim3",
+    "Apps.form.EmailClassificationPagePage.Expressions.G2IQM4JrhnM1mfYhE4iRtw71": "Apps.form.EmailClassificationPagePage.Expressions.ugfMpAbWqL1f87PO2GRUgN3",
+    "Apps.form.EmailClassificationPagePage.gUPiWRK13gg": "Apps.form.EmailClassificationPagePage.gkIUpRQWA3gg"
+  },
+  "assembliesJitInfo": {
+    "Apps.form.MainPage.gxrTb4qt3gg": {
+      "createdAt": "2026-03-11T20:22:15.7596456+00:00",
+      "providerName": "Apps",
+      "rootNamespace": "\u003Cundefined\u003E",
+      "typeNames": [
+        "Controls.MainPage"
+      ],
+      "metadata": {
+        "ModelStableFormId": "id2861f7e2f3ff4200991ac2e3566d4247"
+      }
+    },
+    "Apps.action.gVZWe66t3gg": {
+      "createdAt": "2026-03-11T20:22:30.3246762+00:00",
+      "providerName": "Apps",
+      "rootNamespace": "\u003Cundefined\u003E",
+      "typeNames": [
+        "__Action_ActionSchema.outcomes",
+        "action.ActionProperties"
+      ],
+      "metadata": {
+        "ModelStableFormId": "action"
+      }
+    },
+    "Apps.action.ggNTIFqx3gg": {
+      "createdAt": "2026-03-11T20:23:42.9328896+00:00",
+      "providerName": "Apps",
+      "rootNamespace": "\u003Cundefined\u003E",
+      "typeNames": [
+        "__Action_ActionSchema.outcomes",
+        "action.ActionProperties"
+      ],
+      "metadata": {
+        "ModelStableFormId": "action"
+      }
+    },
+    "Apps.form.MainPage.gsXnxFqx3gg": {
+      "createdAt": "2026-03-11T20:23:42.9336475+00:00",
+      "providerName": "Apps",
+      "rootNamespace": "\u003Cundefined\u003E",
+      "typeNames": [
+        "Controls.MainPage"
+      ],
+      "metadata": {
+        "ModelStableFormId": "id2861f7e2f3ff4200991ac2e3566d4247"
+      }
+    },
+    "Apps.action.g651edax3gg": {
+      "createdAt": "2026-03-11T20:26:21.3968289+00:00",
+      "providerName": "Apps",
+      "rootNamespace": "\u003Cundefined\u003E",
+      "typeNames": [
+        "__Action_ActionSchema.outcomes",
+        "action.ActionProperties"
+      ],
+      "metadata": {
+        "ModelStableFormId": "action"
+      }
+    },
+    "Apps.form.StudentHelpdeskRequestFormPage.gJ515jqx3gg": {
+      "createdAt": "2026-03-11T20:27:03.4769727+00:00",
+      "providerName": "Apps",
+      "rootNamespace": "\u003Cundefined\u003E",
+      "typeNames": [
+        "Controls.StudentHelpdeskRequestFormPage"
+      ],
+      "metadata": {
+        "ModelStableFormId": "id8b1c2ac3784647b5bdf608b964f64627"
+      }
+    },
+    "Apps.form.HelpdeskRequestFormPage.gxbSV2ax3gg": {
+      "createdAt": "2026-03-11T20:29:09.5054322+00:00",
+      "providerName": "Apps",
+      "rootNamespace": "\u003Cundefined\u003E",
+      "typeNames": [
+        "Controls.HelpdeskRequestFormPage"
+      ],
+      "metadata": {
+        "ModelStableFormId": "id9ab7215c48454da38823b7a440be32c5"
+      }
+    },
+    "Apps.action.g8UtS6qx3gg": {
+      "createdAt": "2026-03-11T20:29:37.5723599+00:00",
+      "providerName": "Apps",
+      "rootNamespace": "\u003Cundefined\u003E",
+      "typeNames": [
+        "__Action_ActionSchema.outcomes",
+        "action.ActionProperties"
+      ],
+      "metadata": {
+        "ModelStableFormId": "action"
+      }
+    },
+    "Apps.action.g1vDIq13gg": {
+      "createdAt": "2026-03-11T20:31:12.2644451+00:00",
+      "providerName": "Apps",
+      "rootNamespace": "\u003Cundefined\u003E",
+      "typeNames": [
+        "__Action_ActionSchema.ExtractedFields",
+        "__Action_ActionSchema.outcomes",
+        "action.ActionProperties"
+      ],
+      "metadata": {
+        "ModelStableFormId": "action"
+      }
+    },
+    "Apps.form.EmailClassificationPagePage.g7Wy2L613gg": {
+      "createdAt": "2026-03-11T20:31:33.9940212+00:00",
+      "providerName": "Apps",
+      "rootNamespace": "\u003Cundefined\u003E",
+      "typeNames": [
+        "Controls.EmailClassificationPagePage"
+      ],
+      "metadata": {
+        "ModelStableFormId": "idee900ffb4eec4e36806e7d4ab152bce7"
+      }
+    },
+    "Apps.form.EmailClassificationPagePage.gUPiWRK13gg": {
+      "createdAt": "2026-03-11T20:32:09.0206742+00:00",
+      "providerName": "Apps",
+      "rootNamespace": "\u003Cundefined\u003E",
+      "typeNames": [
+        "Controls.EmailClassificationPagePage"
+      ],
+      "metadata": {
+        "ModelStableFormId": "idee900ffb4eec4e36806e7d4ab152bce7"
+      }
+    },
+    "Apps.action.g5r6tUK13gg": {
+      "createdAt": "2026-03-11T20:32:29.3011646+00:00",
+      "providerName": "Apps",
+      "rootNamespace": "\u003Cundefined\u003E",
+      "typeNames": [
+        "__Action_ActionSchema.ExtractedFields",
+        "__Action_ActionSchema.outcomes",
+        "action.ActionProperties"
+      ],
+      "metadata": {
+        "ModelStableFormId": "action"
+      }
+    },
+    "Apps.form.EmailClassificationPagePage.gkIUpRQWA3gg": {
+      "createdAt": "2026-03-12T12:32:06.839+05:30",
+      "providerName": "Apps",
+      "rootNamespace": "\u003Cundefined\u003E",
+      "typeNames": [
+        "Controls.EmailClassificationPagePage"
+      ],
+      "metadata": {
+        "ModelStableFormId": "idee900ffb4eec4e36806e7d4ab152bce7"
+      }
+    }
+  }
+}

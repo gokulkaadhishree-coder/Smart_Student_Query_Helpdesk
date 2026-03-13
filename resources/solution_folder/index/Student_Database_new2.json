@@ -1,0 +1,27 @@
+{
+  "docVersion": "1.0.0",
+  "resource": {
+    "name": "Student_Database_new2",
+    "kind": "index",
+    "apiVersion": "ecs.uipath.com/v1",
+    "isOverridable": true,
+    "dependencies": [],
+    "runtimeDependencies": [],
+    "files": [],
+    "folders": [
+      {
+        "fullyQualifiedName": "solution_folder"
+      }
+    ],
+    "spec": {
+      "name": "Student_Database_new2",
+      "description": "stores data",
+      "indexConfigurationJson": "{\u0022Version\u0022:3,\u0022Provider\u0022:3,\u0022DataSource\u0022:{\u0022Type\u0022:10,\u0022Properties\u0022:{\u0022folderName\u0022:\u0022Shared\u0022,\u0022directoryPath\u0022:\u0022/My Drive/Student_Database\u0022,\u0022leafFolderId\u0022:\u00221dFZN4lR88ckoTYQAVtBdCK-GGGgxNCKk\u0022,\u0022fileNameGlob\u0022:\u0022**/*.xlsx\u0022,\u0022connectionId\u0022:\u0022f43f7c81-5172-4b27-aa5f-644c6f4010f9\u0022,\u0022connectionName\u0022:\u00222405928@kiit.ac.in\u0022}}}",
+      "fileNameGlob": "XLSX",
+      "includeSubfolders": true,
+      "ingestionType": "Advanced"
+    },
+    "locks": [],
+    "key": "06399281-389b-489a-cc8b-08de7fef3499"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "$id": "entry-points.json",
+  "entryPoints": [
+    {
+      "filePath": "/content/agent.json",
+      "type": "agent",
+      "uniqueId": "49f9a40a-72cc-4b5a-abd6-cb09d20fb209",
+      "input": {
+        "type": "object",
+        "required": [
+          "email_content"
+        ],
+        "properties": {
+          "email_content": {
+            "type": "string",
+            "description": "The full content of the student's email to be classified"
+          }
+        }
+      },
+      "output": {
+        "type": "object",
+        "required": [
+          "category",
+          "explanation"
+        ],
+        "properties": {
+          "category": {
+            "type": "string",
+            "description": "The classified category of the email"
+          },
+          "explanation": {
+            "type": "string",
+            "description": "A brief explanation for the classification choice"
+          }
+        },
+        "title": "Outputs"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "docVersion": "1.0.0",
+  "resource": {
+    "name": "SendEmailResponse",
+    "kind": "package",
+    "apiVersion": "orchestrator.uipath.com/v1",
+    "projectKey": "4c4a6b5e-f543-4197-8d6f-bf970a76eaa8",
+    "isOverridable": false,
+    "dependencies": [],
+    "runtimeDependencies": [],
+    "files": [],
+    "folders": [
+      {
+        "fullyQualifiedName": "solution_folder"
+      }
+    ],
+    "spec": {
+      "fileName": null,
+      "fileReference": null,
+      "name": "SendEmailResponse",
+      "description": null
+    },
+    "locks": [],
+    "key": "d3c0176c-a425-4210-a4c7-40abc8bd93a4"
+  }
+}

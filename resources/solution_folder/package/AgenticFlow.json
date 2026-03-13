@@ -1,0 +1,26 @@
+{
+  "docVersion": "1.0.0",
+  "resource": {
+    "name": "AgenticFlow",
+    "kind": "package",
+    "apiVersion": "orchestrator.uipath.com/v1",
+    "projectKey": "be4bfc1c-a604-406e-888b-f9eebcc41018",
+    "isOverridable": false,
+    "dependencies": [],
+    "runtimeDependencies": [],
+    "files": [],
+    "folders": [
+      {
+        "fullyQualifiedName": "solution_folder"
+      }
+    ],
+    "spec": {
+      "fileName": null,
+      "fileReference": null,
+      "name": "AgenticFlow",
+      "description": null
+    },
+    "locks": [],
+    "key": "6a2e2699-768a-4080-84f8-4b26b1a43026"
+  }
+}

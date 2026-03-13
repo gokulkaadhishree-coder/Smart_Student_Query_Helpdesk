@@ -1,0 +1,42 @@
+{
+  "DocVersion": "1.0.0",
+  "StudioMinVersion": "2025.04.0",
+  "SolutionId": "9bc331a8-e61d-4acd-77a5-08de70783b08",
+  "Projects": [
+    {
+      "Type": "WebApp",
+      "ProjectRelativePath": "AdminApproveApp/project.uiproj",
+      "Id": "da91e449-a994-42b4-aed1-72ad8c6c23f3"
+    },
+    {
+      "Type": "ProcessOrchestration",
+      "ProjectRelativePath": "AgenticFlow/project.uiproj",
+      "Id": "be4bfc1c-a604-406e-888b-f9eebcc41018"
+    },
+    {
+      "Type": "Agent",
+      "ProjectRelativePath": "Classify/project.uiproj",
+      "Id": "e8c1170c-330b-4017-9a09-0cb1348cef08"
+    },
+    {
+      "Type": "Agent",
+      "ProjectRelativePath": "DataExtrationAgent/project.uiproj",
+      "Id": "4a5a3647-6765-4534-852d-b97eb56f96d0"
+    },
+    {
+      "Type": "Agent",
+      "ProjectRelativePath": "MailResponseAgent/project.uiproj",
+      "Id": "3f0bebec-29fd-48b6-b2e3-9736e6c08fee"
+    },
+    {
+      "Type": "Process",
+      "ProjectRelativePath": "SendEmailResponse/project.uiproj",
+      "Id": "4c4a6b5e-f543-4197-8d6f-bf970a76eaa8"
+    },
+    {
+      "Type": "Process",
+      "ProjectRelativePath": "StudentHelpdeskProcessor/project.uiproj",
+      "Id": "edba1043-6e54-408a-be6a-95ff7ee966ca"
+    }
+  ]
+}

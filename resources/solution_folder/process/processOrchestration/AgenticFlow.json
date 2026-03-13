@@ -1,0 +1,54 @@
+{
+  "docVersion": "1.0.0",
+  "resource": {
+    "name": "AgenticFlow",
+    "kind": "process",
+    "type": "processOrchestration",
+    "apiVersion": "orchestrator.uipath.com/v1",
+    "projectKey": "be4bfc1c-a604-406e-888b-f9eebcc41018",
+    "isOverridable": false,
+    "dependencies": [
+      {
+        "name": "AgenticFlow",
+        "kind": "package"
+      }
+    ],
+    "runtimeDependencies": [],
+    "files": [],
+    "folders": [
+      {
+        "fullyQualifiedName": "solution_folder"
+      }
+    ],
+    "spec": {
+      "entryPointUniqueId": null,
+      "inputArgumentsSchema": null,
+      "inputArgumentsSchemaV2": null,
+      "type": "ProcessOrchestration",
+      "name": "AgenticFlow",
+      "description": null,
+      "package": {
+        "key": "6a2e2699-768a-4080-84f8-4b26b1a43026"
+      },
+      "packageName": "StudentProcessQuery.1.agentic.AgenticFlow",
+      "packageVersion": null,
+      "entryPointName": null,
+      "inputArguments": "{}",
+      "hiddenForAttendedUser": false,
+      "alwaysRunning": false,
+      "autoStartProcess": false,
+      "targetFrameworkValue": "Portable",
+      "retentionAction": "Delete",
+      "retentionPeriod": 30,
+      "retentionBucketRef": null,
+      "staleRetentionAction": "Delete",
+      "staleRetentionPeriod": 180,
+      "staleRetentionBucketRef": null,
+      "entryPoints": null,
+      "connections": null,
+      "tags": []
+    },
+    "locks": [],
+    "key": "7a446fcd-2513-4ef6-baf4-4ce5e9f8d240"
+  }
+}
